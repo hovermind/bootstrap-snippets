@@ -1,2 +1,2 @@
-# bootstrap-snippets
-Common Bootstrap Snippets
+* [modals](#)
+* [dialogues](https://nakupanda.github.io/bootstrap3-dialog/)
