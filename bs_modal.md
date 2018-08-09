@@ -86,6 +86,7 @@ $myModal.modal('show');
 ## Modal Events
 ```
 let $myModal = $('#my-modal');
+
 $myModal.on('show.bs.modal', function(e) {
 
 	//e.preventDefault();
@@ -98,9 +99,7 @@ $myModal.on('show.bs.modal', function(e) {
 	let clickedBtnId = e.relatedTarget.id;
 	// ...
 });
-//$myModal.on('shown.bs.modal', function(e) {});
 
-//$myModal.on('hide.bs.modal', function(e) {});
 $myModal.on('hidden.bs.modal', function(e) {
 
 	//e.preventDefault();
@@ -111,4 +110,8 @@ $myModal.on('hidden.bs.modal', function(e) {
 	$('#feedback_div').hide();
 	
 });
+
+// other events
+//$myModal.on('shown.bs.modal', function(e) {});
+//$myModal.on('hide.bs.modal', function(e) {});
 ```
