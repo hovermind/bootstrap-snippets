@@ -1,6 +1,6 @@
 ## Bootstrap Tabs
 ```
-<div id="chart-container">
+<div id="tab-container" class="contents panel panel-default">
 
 	<div class="panel-heading">
 
