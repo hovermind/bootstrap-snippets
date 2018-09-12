@@ -30,4 +30,4 @@ $(document).ready((e) => {
 });
 ```
 
-See: [Retaining Sidebar Open/Close STate](#)
+See: [Retaining Sidebar Open/Close STate](https://github.com/hovermind/bootstrap-snippets/blob/master/sidebar-collapse-state-js.md)
