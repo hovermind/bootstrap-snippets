@@ -3,8 +3,8 @@ Required:
 * [jQuery](#)
 * [Bootstarp](#)
 * [font-awesome](#)
-* [`sidebar.css`](#)
-* [`sidebar.js`](#)
+* [`sidebar.css`](https://github.com/hovermind/bootstrap-snippets/blob/master/sidebar-css.md)
+* [`sidebar.js`](https://github.com/hovermind/bootstrap-snippets/blob/master/sidebar-js.md)
 
 `page.css`
 ```
