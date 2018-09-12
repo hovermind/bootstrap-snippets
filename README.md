@@ -1,3 +1,6 @@
 * [modals](https://github.com/hovermind/bootstrap-snippets/blob/master/bs_modal.md)
 * [tabs](https://github.com/hovermind/bootstrap-snippets/blob/master/bs_tab.md)
 * [dialogues](https://nakupanda.github.io/bootstrap3-dialog/)
+* [Fixed Top Navigation](https://github.com/hovermind/bootstrap-snippets/blob/master/fixed-top-nav.md)
+* [Collapsible Sidebar](https://github.com/hovermind/bootstrap-snippets/blob/master/collapsible-sidebar.md)
+* [Collapsible Sidebar with Fixed Top](https://github.com/hovermind/bootstrap-snippets/blob/master/collapsible-sidebar-fixed-top.md)
