@@ -2,7 +2,9 @@
 * JQuery
 * Bootstrap
 * Font-awesome
-* [`sidebar.js` & `sidebar.css`](https://github.com/hovermind/springboot-webmvc/blob/master/collapsible-sidebar-js-css.md)
+* [`sidebar.css`](https://github.com/hovermind/bootstrap-snippets/blob/master/sidebar-css.md)
+* [`sidebar.js`](https://github.com/hovermind/bootstrap-snippets/blob/master/sidebar-js.md)
+
 
 ## `sidebar.html`
 ```
