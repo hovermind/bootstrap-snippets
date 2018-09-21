@@ -4,3 +4,4 @@
 * [Fixed Top Navigation](https://github.com/hovermind/bootstrap-snippets/blob/master/fixed-top-nav.md)
 * [Collapsible Sidebar](https://github.com/hovermind/bootstrap-snippets/blob/master/collapsible-sidebar.md)
 * [Collapsible Sidebar with Fixed Top](https://github.com/hovermind/bootstrap-snippets/blob/master/collapsible-sidebar-fixed-top.md)
+* [Setting an active menu item based on the current URL](https://github.com/hovermind/bootstrap-snippets/blob/master/active-menu-item-based-on-url.md)
