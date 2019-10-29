@@ -115,6 +115,3 @@ $myModal.on('hidden.bs.modal', function(e) {
 //$myModal.on('shown.bs.modal', function(e) {});
 //$myModal.on('hide.bs.modal', function(e) {});
 ```
-
-## Prevent layout shifting for nested modal
-https://stackoverflow.com/a/58601351/4802664
